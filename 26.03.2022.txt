@@ -1,0 +1,5 @@
+Today i have completed image slider and navigation bar in left
+
+linked all the pages 
+
+and made it responsive for all the devices...
