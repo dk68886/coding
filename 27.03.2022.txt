@@ -1,0 +1,2 @@
+Today I made some changes in the code to make the application responsive for all the Mobiles.
+
